@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Code_layout</string>
+    <string name="greeting">안녕하세요~ 여러분</string>
 </resources>
