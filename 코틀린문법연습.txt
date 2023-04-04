@@ -1,0 +1,97 @@
+/**
+ * You can edit, run, and share this code.
+ * play.kotlinlang.org
+ */
+fun main() {
+//    var var1: Int=10
+//    var var2=10.1f
+//    var var3: Double=10.2
+//    var3=2.0
+//    var var4='a'
+//    var var5: String="안드로이드"
+    
+//    //val a=1 //value는 상수
+//    //a=0 //값을 바꿀 수 없음
+//    println(var1)
+//    println(var2)
+//    println(var3)
+//    println(var4)
+//    println(var5)
+   
+   
+//    var aa:Int="100".toInt()
+//    var bb:Double="100.123".toDouble()
+  
+//    //var notNull:Int=null 오류
+//    var okNull:Int?=null //정상  데이터형식 뒤에 ?를 붙임
+  /*  var count:Int=85
+    if(count>=90){
+        println("if문 : 합격(장학생)")
+    }else if(count>=60){
+        println("if문 : 합격")
+    }else{
+        println("if문 : 불합격")
+    }
+   
+    var score:Int=(count/10)*10
+    when(score){
+        in 90..100-> {println("when문 : 합격(장학생)")
+         println("when문 : 합격(장학생)")
+        }
+        90->println("when문 : 합격(장학생)")
+        80,70,60->println("when문 : 합격")
+        else->println("when문 : 불합격")
+	}
+    
+    var a=Array<Int>(4,{0}) //배열 방개수,{초기값}
+    a[0]=10
+    a[3]=20
+    for(i in a.indices)
+    	println(a[i])
+   println("-------")
+   
+   
+   
+   var two=Array<IntArray>(3,{IntArray(4){2}}) //행 개수, {배열 데이터 형식(열 개수)}
+  //3행 4열의 2차원 배열
+  //row의 index:0~2
+  //col의 index:0~3
+  two[1][2]=100
+  two[2][3]=200
+  for((i,row) in two.withIndex()){ //변수의 행길이만큼    i,row 인덱스 번호, 인덱스 번호에 해당하는 값..?
+      for((j, col) in row.withIndex()){ //행의 열길이만큼    반복문처음돌시 row에는 two의 0행의 인덱스. j에는 열의 시작번호가 전달됨 .0행의 첫번째 값이 col에 전달
+          print("($i, $j)=$col\t")
+      }
+      println()
+  }
+  
+  
+  
+  var ONE=ArrayList<Int>(4)
+  ONE.add(10)
+  ONE.add(20)
+  var sum=ONE.get(0)+ONE.get(1)
+  print(sum)
+  //첫 번째 값+두 번째 값
+  //
+ 
+ println("--------------------")
+ for(aaa in 1..10 step 1){ //1부터 10까지 1씩 증가
+     print(aaa)
+ }
+ println("--------------------")
+ var arrayQ=Array<Int>(4,{99})
+ for(aa in arrayQ.indices){ //배열의 개수만큼 변수에 대입하여 반복
+     print("hi ")
+ }
+ */
+   
+}
+
+
+
+
+
+
+
+
